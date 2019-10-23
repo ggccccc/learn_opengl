@@ -1,0 +1,3 @@
+﻿  demo.cpp
+E:\workspace\VS\OpenGL\learning_opengl\demo.cpp(92,19): warning C4244:  “初始化”: 从“double”转换到“float”，可能丢失数据
+  learning_opengl.vcxproj -> E:\workspace\VS\OpenGL\learning_opengl\Debug\learning_opengl.exe
